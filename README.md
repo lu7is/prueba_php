@@ -1,0 +1,1 @@
+Para ejecutar el codigo deben clonar el repositorio y debidamente correrlo en el servidor, la base de datos que se me fue suministrada no me funciono, asi que realice una igual para poder hacer el proyecto 
